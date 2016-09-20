@@ -2,7 +2,7 @@
 ##通过Net-Speeder为搬瓦工提升网速
 第一步，下载
 
-wget https://github.com/gaoshilei/Net-Speeder.git/net_speeder-installer.sh
+wget https://github.com/gaoshilei/Net-Speeder/blob/master/net_speeder-installer.sh
 
 第二部，编译并安装
 
